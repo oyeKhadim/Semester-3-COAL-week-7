@@ -28,7 +28,7 @@ intSum Proc USES ecx
 	push ecx
 	mov ecx,s
 	mov esi , 0
-	;		loop 1
+	;		pushing into stack
 	L1:
 		movzx eax,myarray1[esi]
 		push eax
@@ -36,7 +36,7 @@ intSum Proc USES ecx
 		loop L1
 	mov ecx,s
 	mov esi , 0
-	;		loop 2
+	;		poping from stack
 	L2:
 		pop eax
 		mov myarray1[esi],al
@@ -45,11 +45,12 @@ intSum Proc USES ecx
 	mov ecx,s
 	mov esi , 0
 	mov eax,0
-	;		loop 3
+	;		adding
 	L3:
 		add al,myarray1[esi]
 		inc esi
-		loop L3			
+		loop L3	
+	;		printing
 	mov edx , offset l
 	call writeBin
 	call writeString
