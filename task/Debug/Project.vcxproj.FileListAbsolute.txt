@@ -1,0 +1,10 @@
+D:\Semester 3\Lab Tasks\Weak 2\Coal\Project32_VS2022\Debug\Project.exe
+D:\Semester 3\Lab Tasks\Weak 3\COAL\Project32_VS2022\Debug\Project.exe
+D:\Semester 3\Lab Tasks\Week 4\COAL\Project32_VS2022\Debug\Project.exe
+D:\Semester 3\Lab Tasks\Week 4\COAL\1\Debug\Project.exe
+D:\Semester 3\Lab Tasks\Week 5\COAL\1\Debug\Project.exe
+D:\Semester 3\Lab Tasks\Week 5\COAL\Task 1\Debug\Project.exe
+D:\Semester 3\Lab Tasks\Week 6\COAL\Task 1\Debug\Project.exe
+D:\Semester 3\Lab Tasks\Week 7\COAL\Test\Debug\Project.exe
+D:\Semester 3\Lab Tasks\Week 7\COAL\2021-CS-204\Debug\Project.exe
+D:\UET\Semester3\COAL-lab\Week7\task\Debug\Project.exe
